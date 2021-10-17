@@ -1,6 +1,11 @@
 # Recyclegram
+
 Team - Hackathon warriors
-Theme - Envirnoment
+
+Theme - Environment
+
+
+
 Recyclegram is an app to safely dispose of non-biodegradable materials at the comfort of our home.
 
 Problem Statement:
